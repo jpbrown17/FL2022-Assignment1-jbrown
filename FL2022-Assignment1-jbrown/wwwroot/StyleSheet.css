@@ -1,0 +1,31 @@
+﻿body {
+    background-color: #161414;
+    text-align: center;
+    color: white;
+}
+
+#CoverArt
+{
+    border-radius: 50%;
+}
+
+#Rating
+{
+    font-weight: bolder;
+}
+
+#Rating
+{
+   
+}
+
+#Summary
+{
+    padding: 20px
+}
+
+#Actors
+{
+    display: table;
+    margin: 0 auto;
+}
